@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BeeSwarmOptimization",
+            "request": "launch",
+            "mainClass": "com.example/com.example.BeeSwarmOptimization",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "GA",
+            "request": "launch",
+            "mainClass": "com.example/com.example.GA",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "ReadData",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ReadData",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "MultipleKnapsackInstanceGenerator",
+            "request": "launch",
+            "mainClass": "com.example/com.example.MultipleKnapsackInstanceGenerator",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "MultipleKnapsackBSO_VaryingFlip",
+            "request": "launch",
+            "mainClass": "com.example/com.example.MultipleKnapsackBSO_VaryingFlip",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "MultipleKnapsackBSO",
+            "request": "launch",
+            "mainClass": "com.example/com.example.MultipleKnapsackBSO",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.example/com.example.App",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.example/com.example.Main",
+            "projectName": "demo"
+        }
+    ]
+}
